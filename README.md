@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jahnavin6
+- 👋 Hi, I’m Jahnavi N, @jahnavin6
 - 👀 I love to talk about Machine Learning, Automation and related topics
 - 🌱 I’m currently learning NLP and it's usage in real-life
 - 💞️ Full-time employee at AMD, CA, USA
