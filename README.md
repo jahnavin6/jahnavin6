@@ -4,7 +4,7 @@
    - AI tools and their usage in real-life
    - Kubernetes
    - Cloud
-   - Might be a revolutionary product/software ("In my spare time, *sigh*")
+   - Building a revolutionary product/software ("Might be in my spare time, *sigh*")
 - 💞️ Full-time employee at AMD, CA, USA
 - 📫 How to reach me - Shoot me an email to njahnavi6@gmail.com
 
